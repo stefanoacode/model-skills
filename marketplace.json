@@ -1,0 +1,15 @@
+{
+  "name": "model-skills",
+  "description": "Financial modeling skills for consulting",
+  "owner": {
+    "name": "Stefan Salvatore"
+  },
+  "plugins": [
+    {
+      "name": "model-skills",
+      "description": "Financial modeling skills: 3-statement models, model auditing, and more",
+      "version": "1.0.0",
+      "source": "./model-skills"
+    }
+  ]
+}

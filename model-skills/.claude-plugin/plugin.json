@@ -1,0 +1,15 @@
+{
+  "name": "model-skills",
+  "description": "Financial modeling skills for consulting: 3-statement models, model auditing, and more",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stefan Salvatore"
+  },
+  "keywords": [
+    "financial-modeling",
+    "3-statements",
+    "consulting",
+    "model-audit",
+    "excel"
+  ]
+}
